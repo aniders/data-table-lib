@@ -69,4 +69,4 @@ $ npm run lint
 
 ## License
 
-MIT © [aniruddh rawool](mailto:aniruddh9888@gmail.com)
+MIT 
